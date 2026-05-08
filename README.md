@@ -8,7 +8,7 @@ This project implements theoretical and computational models of:
 * signaling range expansion
 * fold-change detection (FCD)
 
-developed as part of the MSc course:
+Developed as part of the MSc course:
 
 **Physics of Molecular Diseases**  
 Niels Bohr Institute — University of Copenhagen (Prof. Ala Trusina)
