@@ -244,7 +244,7 @@ Metrics include:
 
 # 📚 References
 
-### Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
+### * Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
 
 ### Ma W. et al. (2009)
 *Defining Network Topologies that Can Achieve Biochemical Adaptation*  
