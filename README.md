@@ -244,18 +244,18 @@ Metrics include:
 
 # 📚 References
 
-### * Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
+* Prof. Ala Trusina, NFYK14009U Physics of Molecular Diseases, Niels Bohr Institute, University of Copenhagen
 
-### Ma W. et al. (2009)
-*Defining Network Topologies that Can Achieve Biochemical Adaptation*  
+* Ma W. et al. (2009)
+Defining Network Topologies that Can Achieve Biochemical Adaptation*  
 Cell
 
-### Shoval O. et al. (2010)
-*Fold-change detection and scalar symmetry of sensory input fields*  
+* Shoval O. et al. (2010)
+Fold-change detection and scalar symmetry of sensory input fields*  
 PNAS
 
-### Goentoro L. et al. (2009)
-*The Incoherent Feedforward Loop Can Provide Fold-Change Detection in Gene Regulation*  
+* Goentoro L. et al. (2009)
+The Incoherent Feedforward Loop Can Provide Fold-Change Detection in Gene Regulation*  
 Molecular Cell
 
 ---
